@@ -21,7 +21,7 @@ spec:
       containers:
       - name: ecommerce
 
-        image: IMAGE_URI
+        image: nginx
 
         ports:
         - containerPort: 8080
