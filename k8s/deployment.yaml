@@ -21,7 +21,7 @@ spec:
       containers:
       - name: ecommerce
 
-        image: nginx
+        image: 466825169799.dkr.ecr.ap-south-1.amazonaws.com/ecommerce:v1
 
         ports:
         - containerPort: 8080
