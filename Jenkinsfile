@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "ecommerce"
-        IMAGE_TAG = "v1"
+        IMAGE_TAG = "v2"
         AWS_REGION = "ap-south-1"
         AWS_ACCOUNT_ID = "466825169799"
         ECR_REPO = "466825169799.dkr.ecr.ap-south-1.amazonaws.com/ecommerce"
